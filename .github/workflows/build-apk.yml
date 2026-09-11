@@ -29,4 +29,3 @@ jobs:
         with:
           name: duofold-debug-apk
           path: app/build/outputs/apk/debug/*.apk
-Add APK bulid workflow
